@@ -25,6 +25,7 @@
 		"url": "https://github.com/TOT-Concept/make-app-entity-enricher/issues"
 	},
 	"scripts": {
+		"test": "node --test",
 		"validate": "node scripts/validate.mjs",
 		"lint": "node scripts/validate.mjs",
 		"deploy": "node scripts/deploy.mjs",
